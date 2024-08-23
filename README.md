@@ -19,9 +19,20 @@ Im Modul 320 will ich mindestens eine 5 haben und beim Modul 322 & 231 mindesten
 
 ## 23.08.2024
 
-- [ ] Programm zum laufen bringen.
+- [x] Programm zum laufen bringen.
 - [ ] Modul 320, Plan bis zum ende erstellen.
 - [ ] C# Rock Paper Scissor Spiel anfangen.
+
+
+✍️ Heute habe ich an meinem Code weitergearbeitet, was viel länger gedauert hat als ursprünglich geplant. Schließlich konnte ich den Code zwar fertigstellen, aber leider habe ich es nicht geschafft, die anderen zwei Arbeitspakete zu erledigen. Unter Zeitdruck geriet ich, weil ich vergessen hatte, dass wir früher gehen mussten. Abgesehen davon habe ich jedoch konzentriert und effektiv gearbeitet. (57 Wörter)
+
+
+
+## 30.08.2024
+
+- [ ] Modul 320, Plan bis zum ende erstellen.
+- [ ] C# Rock Paper Scissor Spiel anfangen.
+- [ ] C# Rock Paper Scissor Spiel zum laufen bringen.
 
 
 ✍️ Heute habe ich ...

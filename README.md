@@ -2,9 +2,7 @@
 
 ## Grob-Planung
 
-Ich bin mit den Noten sehr zufrieden. Ich habe im QV eine 6. Ich denke das eine 6 für die Praktikumsstele reichen wird. Ich probiere so weiter zu machen.
-Ich will für das erste Semester ein 5.5 oder eine 6 als Durchschnitt. 
-Im Modul 320 will ich mindestens eine 5 haben und beim Modul 322 & 231 mindestens eine 5.5.
+Ich bin mit meinen Noten sehr zufrieden. Im QV habe ich eine 6. Ich denke, dass eine 6 für die Praktikumsstelle ausreichen wird. Ich werde versuchen, weiterhin auf diesem Niveau zu arbeiten. Für das erste Semester strebe ich einen Durchschnitt von 5.5 oder 6 an. Im Modul 320 möchte ich mindestens eine 5 erreichen, und in den Modulen 322 und 231 mindestens eine 5.5.
 
 
 ## 16.08.2024

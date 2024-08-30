@@ -18,8 +18,8 @@ Ich bin mit meinen Noten sehr zufrieden. Im QV habe ich eine 6. Ich denke, dass 
 ## 23.08.2024
 
 - [x] Programm zum laufen bringen.
-- [ ] Modul 320, Plan bis zum ende erstellen.
 - [ ] C# Rock Paper Scissor Spiel anfangen.
+- [ ] C# Rock Paper Scissor Spiel zum laufen bringen.
 
 
 ✍️ Heute habe ich an meinem Code weitergearbeitet, was viel länger gedauert hat als ursprünglich geplant. Schließlich konnte ich den Code zwar fertigstellen, aber leider habe ich es nicht geschafft, die anderen zwei Arbeitspakete zu erledigen. Unter Zeitdruck geriet ich, weil ich vergessen hatte, dass wir früher gehen mussten. Abgesehen davon habe ich jedoch konzentriert und effektiv gearbeitet. (57 Wörter)
@@ -28,9 +28,9 @@ Ich bin mit meinen Noten sehr zufrieden. Im QV habe ich eine 6. Ich denke, dass 
 
 ## 30.08.2024
 
-- [ ] Modul 320, Plan bis zum ende erstellen.
 - [ ] C# Rock Paper Scissor Spiel anfangen.
 - [ ] C# Rock Paper Scissor Spiel zum laufen bringen.
+- [ ] Durchschnittsrechner von allen Fächern (Ausgabe als .txt) anfangen
 
 
 ✍️ Heute habe ich ...

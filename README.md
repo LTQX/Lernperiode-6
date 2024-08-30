@@ -18,8 +18,8 @@ Ich bin mit meinen Noten sehr zufrieden. Im QV habe ich eine 5.2. Ich denke, das
 ## 23.08.2024
 
 - [x] Programm zum laufen bringen.
-- [ ] C# Rock Paper Scissor Spiel anfangen.
-- [ ] C# Rock Paper Scissor Spiel zum laufen bringen.
+- [ ] Durchschnittsrechner von allen Fächern (Ausgabe als .txt) anfangen
+- [ ] Durchschnittsrechner von allen Fächern (Ausgabe als .txt) fertig machen.
 
 
 ✍️ Heute habe ich an meinem Code weitergearbeitet, was viel länger gedauert hat als ursprünglich geplant. Schließlich konnte ich den Code zwar fertigstellen, aber leider habe ich es nicht geschafft, die anderen zwei Arbeitspakete zu erledigen. Unter Zeitdruck geriet ich, weil ich vergessen hatte, dass wir früher gehen mussten. Abgesehen davon habe ich jedoch konzentriert und effektiv gearbeitet. (57 Wörter)
@@ -28,9 +28,20 @@ Ich bin mit meinen Noten sehr zufrieden. Im QV habe ich eine 5.2. Ich denke, das
 
 ## 30.08.2024
 
-- [ ] C# Rock Paper Scissor Spiel anfangen.
-- [ ] C# Rock Paper Scissor Spiel zum laufen bringen.
-- [ ] Durchschnittsrechner von allen Fächern (Ausgabe als .txt) anfangen
+- [x] Durchschnittsrechner von allen Fächern (Ausgabe als .txt) anfangen
+- [x] Durchschnittsrechner von allen Fächern (Ausgabe als .txt) fertig machen.
+- [ ] https://www.youtube.com/watch?v=EmcHLlypVF8 anschauen
 
 
-✍️ Heute habe ich ...
+✍️ Heute habe ich produktiv und effizient gearbeitet. Es ist mir gelungen, mein Programmierprojekt erfolgreich abzuschließen. Zudem hatte ich heute ein Einzelgespräch, das sehr aufschlussreich war. In der kommenden Woche plane ich, ein YouTube-Tutorial anzusehen, um meine Programmierkenntnisse weiter zu vertiefen. Mein erster Plan ist es, ein Rock-Paper-Scissors-Spiel zu programmieren, um praktische Erfahrung zu sammeln und meine Fähigkeiten weiterzuentwickeln. (58 Wörter)
+
+
+
+## 06.09.2024
+
+- [ ] https://www.youtube.com/watch?v=EmcHLlypVF8 anschauen
+- [ ] Rock Paper Scissor Spiel anfangen
+- [ ] Rock Paper Scissor Spiel anfangen
+
+
+✍️ Heute habe ich...

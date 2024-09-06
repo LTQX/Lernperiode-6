@@ -1,0 +1,19 @@
+/Users/ylli/Projects/Rechner 2.0/Rechner 2.0/bin/Debug/net7.0/Rechner 2.0
+/Users/ylli/Projects/Rechner 2.0/Rechner 2.0/bin/Debug/net7.0/Rechner 2.0.deps.json
+/Users/ylli/Projects/Rechner 2.0/Rechner 2.0/bin/Debug/net7.0/Rechner 2.0.runtimeconfig.json
+/Users/ylli/Projects/Rechner 2.0/Rechner 2.0/bin/Debug/net7.0/Rechner 2.0.dll
+/Users/ylli/Projects/Rechner 2.0/Rechner 2.0/bin/Debug/net7.0/Rechner 2.0.pdb
+/Users/ylli/Projects/Rechner 2.0/Rechner 2.0/bin/Debug/net7.0/BouncyCastle.Cryptography.dll
+/Users/ylli/Projects/Rechner 2.0/Rechner 2.0/bin/Debug/net7.0/itextsharp.dll
+/Users/ylli/Projects/Rechner 2.0/Rechner 2.0/bin/Debug/net7.0/itextsharp.xmlworker.dll
+/Users/ylli/Projects/Rechner 2.0/Rechner 2.0/obj/Debug/net7.0/Rechner 2.0.csproj.AssemblyReference.cache
+/Users/ylli/Projects/Rechner 2.0/Rechner 2.0/obj/Debug/net7.0/Rechner 2.0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ylli/Projects/Rechner 2.0/Rechner 2.0/obj/Debug/net7.0/Rechner 2.0.AssemblyInfoInputs.cache
+/Users/ylli/Projects/Rechner 2.0/Rechner 2.0/obj/Debug/net7.0/Rechner 2.0.AssemblyInfo.cs
+/Users/ylli/Projects/Rechner 2.0/Rechner 2.0/obj/Debug/net7.0/Rechner 2.0.csproj.CoreCompileInputs.cache
+/Users/ylli/Projects/Rechner 2.0/Rechner 2.0/obj/Debug/net7.0/Rechner 2.0.csproj.CopyComplete
+/Users/ylli/Projects/Rechner 2.0/Rechner 2.0/obj/Debug/net7.0/Rechner 2.0.dll
+/Users/ylli/Projects/Rechner 2.0/Rechner 2.0/obj/Debug/net7.0/refint/Rechner 2.0.dll
+/Users/ylli/Projects/Rechner 2.0/Rechner 2.0/obj/Debug/net7.0/Rechner 2.0.pdb
+/Users/ylli/Projects/Rechner 2.0/Rechner 2.0/obj/Debug/net7.0/Rechner 2.0.genruntimeconfig.cache
+/Users/ylli/Projects/Rechner 2.0/Rechner 2.0/obj/Debug/net7.0/ref/Rechner 2.0.dll

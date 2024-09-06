@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Rechner 2.0/1.0.0": {
+        "dependencies": {
+          "itextsharp.xmlworker": "5.5.13.4"
+        },
+        "runtime": {
+          "Rechner 2.0.dll": {}
+        }
+      },
+      "BouncyCastle.Cryptography/2.4.0": {
+        "runtime": {
+          "lib/net6.0/BouncyCastle.Cryptography.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.4.0.33771"
+          }
+        }
+      },
+      "iTextSharp/5.5.13.4": {
+        "dependencies": {
+          "BouncyCastle.Cryptography": "2.4.0"
+        },
+        "runtime": {
+          "lib/net461/itextsharp.dll": {
+            "assemblyVersion": "5.5.13.4",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "itextsharp.xmlworker/5.5.13.4": {
+        "dependencies": {
+          "iTextSharp": "5.5.13.4"
+        },
+        "runtime": {
+          "lib/net461/itextsharp.xmlworker.dll": {
+            "assemblyVersion": "5.5.13.4",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rechner 2.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BouncyCastle.Cryptography/2.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SwXsAV3sMvAU/Nn31pbjhWurYSjJ+/giI/0n6tCrYoupEK34iIHCuk3STAd9fx8yudM85KkLSVdn951vTng/vQ==",
+      "path": "bouncycastle.cryptography/2.4.0",
+      "hashPath": "bouncycastle.cryptography.2.4.0.nupkg.sha512"
+    },
+    "iTextSharp/5.5.13.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/cvCNv8AJ+XuD99u4NfHSSxkBJKTdvP36wcfQF9V1Cjzi1ycyFSa4vJ64a3DhFVUTKVO60WF8OmAqngQDTHgYA==",
+      "path": "itextsharp/5.5.13.4",
+      "hashPath": "itextsharp.5.5.13.4.nupkg.sha512"
+    },
+    "itextsharp.xmlworker/5.5.13.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2a0iJLvGURNZG5geRlw3HkfdjIZflY2xsW/6fJvgaop7v71kXuP9mwCWI/NXH9TFY8rvneE9zAaQ7jNFEjLwQg==",
+      "path": "itextsharp.xmlworker/5.5.13.4",
+      "hashPath": "itextsharp.xmlworker.5.5.13.4.nupkg.sha512"
+    }
+  }
+}

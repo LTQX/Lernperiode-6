@@ -1,0 +1,12 @@
+Grades:
+Swir: 4.50
+Swfr: 5.00
+Englisch: 4.00
+Deutsch: 2.00
+Mathematik: 4.00
+Französisch: 5.00
+Sport: 4.00
+Ila: 5.00
+
+Average Grade: 4.25
+Penalty Points: -2.00

@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "HEoWFMYlKYpXO60FSwfQKWsVlWLmGiHkv9MhyZj/Iin8ebMqNl3ghL/c8OXIJniA5v7wDYjAAAxhT5QBopsJFQ==",
+  "success": true,
+  "projectFilePath": "/Users/ylli/Projects/Rechner 2.0/Rechner 2.0/Rechner 2.0.csproj",
+  "expectedPackageFiles": [
+    "/Users/ylli/.nuget/packages/bouncycastle.cryptography/2.4.0/bouncycastle.cryptography.2.4.0.nupkg.sha512",
+    "/Users/ylli/.nuget/packages/itextsharp/5.5.13.4/itextsharp.5.5.13.4.nupkg.sha512",
+    "/Users/ylli/.nuget/packages/itextsharp.xmlworker/5.5.13.4/itextsharp.xmlworker.5.5.13.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Das Paket \"iTextSharp 5.5.13.4\" wurde nicht mit dem Projektzielframework \"net7.0\", sondern mit \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" wiederhergestellt. Dieses Paket ist mit Ihrem Projekt möglicherweise nicht vollständig kompatibel.",
+      "libraryId": "iTextSharp",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Das Paket \"itextsharp.xmlworker 5.5.13.4\" wurde nicht mit dem Projektzielframework \"net7.0\", sondern mit \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" wiederhergestellt. Dieses Paket ist mit Ihrem Projekt möglicherweise nicht vollständig kompatibel.",
+      "libraryId": "itextsharp.xmlworker",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

@@ -38,15 +38,24 @@ Ich bin mit meinen Noten sehr zufrieden. Im QV habe ich eine 5.2. Ich denke, das
 
 - [x] https://www.youtube.com/watch?v=EmcHLlypVF8 anschauen
 - [x] Rock Paper Scissor Spiel anfangen
-- [x] Rock Paper Scissor Spiel anfangen
+- [x] Rock Paper Scissor Spiel beenden
 
-✍️ Heute habe ich sehr konzentriert gearbeitet und alle Arbeitspakete abgeschlossen. Ich bin zufrieden mit meiner Leistung. Am Schluss hatte ich noch Zeit, für die Prüfung an der Kanti zu lernen, da ich heute keine Pause gemacht habe. Ich hatte keine Probleme, das Spiel Rock, Paper, Scissor zu programmieren, alles lief einwandfrei.
+✍️ Heute habe ich sehr konzentriert gearbeitet und alle Arbeitspakete abgeschlossen. Ich bin zufrieden mit meiner Leistung. Am Schluss hatte ich noch Zeit, für die Prüfung an der Kanti zu lernen, da ich heute keine Pause gemacht habe. Ich hatte keine Probleme, das Spiel Rock, Paper, Scissor zu programmieren, alles lief einwandfrei. (51 Wörter)
 
 
 ## 13.09.2024
 
-- [ ] M231 Auftrag 1715
-- [ ] M231 Auftrag 1716
-- [ ] M231 Auftrag 1717
+- [x] M231 Auftrag 1715
+- [x] M231 Auftrag 1716
+- [x] M231 Auftrag 1717
 
+✍️ Heute habe ich an drei Aufträgen gearbeitet, die ich alle sauber und ohne Probleme abgeschlossen habe. Da ich noch Zeit übrig hatte, nutzte ich diese, um an meiner Website weiterzuarbeiten. (30 Wörter)
+
+
+## 20.09.2024
+
+- [ ] LB Webseite Modul 322
+- [ ] Home Page
+- [ ] Über uns Page
+      
 ✍️ Heute habe ich...

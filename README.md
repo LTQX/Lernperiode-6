@@ -1,4 +1,4 @@
-16.08.2024 bis 20.09.2024
+16.08.2024 bis 18.10.2024
 
 ## Grob-Planung
 
@@ -54,8 +54,17 @@ Ich bin mit meinen Noten sehr zufrieden. Im QV habe ich eine 5.2. Ich denke, das
 
 ## 20.09.2024
 
-- [ ] LB Webseite Modul 322
-- [ ] Home Page
-- [ ] Über uns Page
+- [x] LB Webseite Modul 322 anfangen
+- [x] Home Page
+- [x] Über uns Page
       
-✍️ Heute habe ich...
+✍️ Heute haben wir gemeinsam den Code in Visual Studio Code bearbeitet. Wir haben heute mit dem Projekt begonnen und sind weit gekommen. Zuerst haben wir die Zutaten recherchiert und anschließend passende Rezepte dazu gesucht. Unser Ziel ist es, eine interaktive Website zu erstellen, auf der der Benutzer die Zutaten auswählen kann, um anschließend die Rezepte zu sehen, die mit diesen Zutaten zubereitet werden können. Wir haben das Hauptmenü fertiggestellt und einen Abschnitt für Kontakt und Über uns hinzugefügt, aber wir müssen es noch verfeinern. Jetzt müssen wir noch das Design überarbeiten, eine passende Farbpalette finden und Farben für unsere Website auswählen. 
+
+
+## 18.10.2024
+
+- [ ] Kontakt Seite
+- [ ] Farben mit einer Farbpalette generieren
+- [ ] Verfeinerungen des Designs
+      
+✍️ Heute haben wir... 
